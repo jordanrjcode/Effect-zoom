@@ -7,6 +7,10 @@
 
 </div>
 
+# Demo 
+
+You can see a demo of the proyect [here](https://jordanrjcode.github.io/Effect-zoom/)
+
 # Information :zap:
 
 Code Effect to zoom effect as in many well-known stores such as Amazon.
